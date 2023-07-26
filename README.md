@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Karan Raj</h1>
-<img src="LOGO.png"  class="center" height="60%" width="30%">
+<div id="image">
+<img src="LOGO.png"  height="60%" width="30%">
+<img src="Coder.png"   height="60%" width="60%">
+</div>
 <style>
-    .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
-}
+  #image{
+    display: block;
+  }
 </style>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
