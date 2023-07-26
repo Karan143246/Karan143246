@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karan Raj</h1>
-<img src="LOGO.png"  align="center" display="flex" height="20%" width="10%">
+<img src="LOGO.png"  class="center" height="60%" width="30%">
+<style>
+    .center {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+</style>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
 - 🌱 I’m currently learning **Data Science,DSA,etc**
