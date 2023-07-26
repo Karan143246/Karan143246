@@ -3,11 +3,6 @@
 <img src="LOGO.png"  height="60%" width="30%">
 <img src="Coder.png"   height="60%" width="60%">
 </div>
-<style>
-  #image{
-    display: block;
-  }
-</style>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
 - 🌱 I’m currently learning **Data Science,DSA,etc**
