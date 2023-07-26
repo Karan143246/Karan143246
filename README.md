@@ -2,10 +2,10 @@
 <img src="LOGO.png"  class="center" height="60%" width="30%">
 <style>
     .center {
-  display: flex;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: auto;
 }
 </style>
 <h3 align="center">A passionate Computer Science Student from India</h3>
