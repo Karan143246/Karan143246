@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Raj</h1>
 <div id="image">
-<img src="LOGO.png"  height="60%" width="30%">
-<img src="Coder.png"   height="60%" width="60%">
+<img src="Karan's Logo.png"  height="60%" width="30%">
+<img src="BG.png"   height="60%" width="60%">
 </div>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
