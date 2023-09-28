@@ -1,3 +1,4 @@
+<img alt = "Visitors"  src = "https://komarev.com/ghpvc/?username=Karan143246"/>
 <h1 align="center">Hi 👋, I'm Karan Raj</h1>
 <div id="image">
 <img src="Karan's Logo.png"  height="60%" width="30%">
@@ -12,6 +13,14 @@
 - 📫 How to reach me **kraj66561@gmail.com**
 
 - ⚡ Fun fact **I had a comedy mood in a serious situation**
+
+<h2 align="center">📊 Github Statistics </h2>
+
+</p><p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karan143246&theme=material-palenight" /></p>
+
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Karan143246&layout=compact&hide=html&theme=jolly" alt="Karan_Raj" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <h2>kraj66561@gmail.com</h2>
